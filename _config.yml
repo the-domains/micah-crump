@@ -1,0 +1,28 @@
+name: Micah Crump
+favicon: null
+layout_spectrum: 0.9198430317919701
+typography_spectrum: 0.1689584944397211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3941753916442394
+  lightness: 0.6248737538699061
+  saturation: 0.2254823341500014
+  rhythmicContrast: 0.35429647169075906
+purpose: []
